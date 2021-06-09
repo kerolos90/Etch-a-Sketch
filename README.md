@@ -1,2 +1,1 @@
-# DOM_Exercises
-Created with CodeSandbox
+This is an Etch-a-Sketch program I developed. This has been my biggest Javascript/HTML project to date. This allowed me to being working more with Javascript to dynamically make changes to the page. I learned tools and techniques that have allowed me to manipulate the DOM of the page. Some initial issues I ran into was creating a grid that had a set container size but the DIVs within would increase the grid based on user input.
