@@ -1,2 +1,2 @@
-# Etch-a-Sketch
+# DOM_Exercises
 Created with CodeSandbox
